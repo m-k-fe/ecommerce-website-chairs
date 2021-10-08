@@ -1,0 +1,228 @@
+[
+    [
+        {
+            "id" : 1,
+            "name" : "Blue Chair",
+            "imageUrl" : [
+                "images/blue-chair.jpg",
+                "images/blue-chair-2.jpg",
+                "images/blue-chair-3.jpg"
+            ],
+            "oldPrice" : "97.00",
+            "newPrice" : "88.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "chairs",
+            "qty" : 1
+        },
+        {
+            "id" : 2,
+            "name" : "Blue Sofa",
+            "imageUrl" : [
+                "images/blue-sofa.jpg",
+                "images/blue-sofa-2.jpg",
+                "images/blue-sofa-3.jpg"
+            ],
+            "newPrice" : "99.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "sofas",
+            "qty" : 1
+        },
+        {
+            "id" : 3,
+            "name" : "Classic Chair",
+            "imageUrl" : [
+                "images/classic-chair.jpg",
+                "images/classic-chair-2.jpg",
+                "images/classic-chair-3.jpg"
+            ],
+            "oldPrice" : "120.00",
+            "newPrice" : "99.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "chairs",
+            "qty" : 1
+        },
+        {
+            "id" : 4,
+            "name" : "Door chime",
+            "imageUrl" : [
+                "images/door-chime.jpg",
+                "images/door-chime-2.jpg",
+                "images/door-chime-3.jpg"
+            ],
+            "oldPrice" : "87.00",
+            "newPrice" : "64.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "accessories",
+            "qty" : 1
+        },
+        {
+            "id" : 5,
+            "name" : "Gray Chair",
+            "imageUrl" : [
+                "images/gray-chair.jpg",
+                "images/gray-chair-2.jpg",
+                "images/gray-chair-3.jpg"
+            ],
+            "oldPrice" : "98.00",
+            "newPrice" : "67.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "chairs",
+            "qty" : 1
+        },
+        {
+            "id" : 6,
+            "name" : "Hadle",
+            "imageUrl" : [
+                "images/hadle.jpg",
+                "images/hadle-2.jpg",
+                "images/hadle-3.jpg"
+            ],
+            "newPrice" : "76.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "accessories",
+            "qty" : 1
+        },
+        {
+            "id" : 7,
+            "name" : "Kitchen chair",
+            "imageUrl" : [
+                "images/kitchen-chair.jpg",
+                "images/kitchen-chair-2.jpg",
+                "images/kitchen-chair-3.jpg"
+            ],
+            "newPrice" : "99.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "chairs",
+            "qty" : 1
+        },
+        {
+            "id" : 8,
+            "name" : "Large sofa",
+            "imageUrl" : [
+                "images/large-sofa.jpg",
+                "images/large-sofa-2.jpg",
+                "images/large-sofa-3.jpg"
+            ],
+            "newPrice" : "129.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "sofas",
+            "qty" : 1
+        },
+        {
+            "id" : 9,
+            "name" : "Leather Chair",
+            "imageUrl" : [
+                "images/leather-chair.jpg",
+                "images/leather-chair-2.jpg",
+                "images/leather-chair-3.jpg"
+            ],
+            "oldPrice" : "139.00",
+            "newPrice" : "78.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "chairs",
+            "qty" : 1
+        },
+        {
+            "id" : 10,
+            "name" : "Yello chair",
+            "imageUrl" : [
+                "images/yellow-chair.jpg",
+                "images/yellow-chair-2.jpg",
+                "images/yellow-chair-3.jpg"
+            ],
+            "newPrice" : "99.00",
+            "oldPrice" : "134.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "chairs",
+            "qty" : 1
+        },
+        {
+            "id" : 11,
+            "name" : "Sofa",
+            "imageUrl" : [
+                "images/sofa.jpg",
+                "images/sofa-2.jpg",
+                "images/sofa-3.jpg"
+            ],
+            "newPrice" : "88.00",
+            "oldPrice" : "110.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "sofas",
+            "qty" : 1
+        },
+        {
+            "id" : 12,
+            "name" : "Clock",
+            "imageUrl" : [
+                "images/clock.jpg",
+                "images/clock-2.jpg",
+                "images/clock-3.jpg"
+            ],
+            "newPrice" : "109.00",
+            "description" : "Temporibus autem quibusdam  et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptat et molestiae non.",
+            "category" : "accessories",
+            "qty" : 1
+        }
+    ],
+    [
+        {   
+            "id" : 1,
+            "postImage" : "images/post1.jpg",
+            "postBgImage" : "images/bg-post1.jpg",
+            "postTitle" : "A life with accessories",
+            "postDate" : "Mon, Jan 04, 16",
+            "postDesc" : "Sed ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem.Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32.",
+            "postAuthor" : "Catalin Moraru",
+            "postAuthorImage" : "images/author-img.jpeg",
+            "postAuthorDesc" : "Front End Developer and Author on Themeforest since 2012. Loves spending time with his wife and their two dogs.",
+            "postComments" : [
+                {
+                    "name": "Catalin",
+                    "date" : "Apr. 02, 2019",
+                    "text" : "Great theme!"
+                }
+            ]
+        },
+        {   
+            "id" : 2,
+            "postImage" : "images/post2.jpg",
+            "postBgImage" : "images/bg-post2.jpg",
+            "postTitle" : "Confort and elegance",
+            "postDate" : "Mon, Oct 12, 15",
+            "postDesc" : "This is your store’s blog. You can use it to talk about new product launches, experiences, tips or other news you want your customers to read about. You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and for your store’s blog.",
+            "postAuthor" : "Catalin Moraru",
+            "postAuthorImage" : "images/author-img.jpeg",
+            "postAuthorDesc" : "Front End Developer and Author on Themeforest since 2012. Loves spending time with his wife and their two dogs.",
+            "postComments" : [
+                {
+                    "name": "Catalin",
+                    "date" : "Apr. 12, 2018",
+                    "text" : "Great blog post!"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "postImage" : "images/post3.jpg",
+            "postBgImage" : "images/bg-post3.jpg",
+            "postTitle" : "Modern chairs",
+            "postDate" : "Wed, Oct 07, 15",
+            "postDesc" : "This is your store’s blog. You can use it to talk about new product launches, experiences, tips or other news you want your customers to read about. You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and for your store’s blog.",
+            "postAuthor" : "Catalin Moraru",
+            "postAuthorImage" : "images/author-img.jpeg",
+            "postAuthorDesc" : "Front End Developer and Author on Themeforest since 2012. Loves spending time with his wife and their two dogs.",
+            "postComments" : [
+                {
+                    "name": "Mariuca",
+                    "date" : "Oct. 07, 2015",
+                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in dictum tortor. Mauris nisl risus, semper eget maximus in, porttitor eu libero."
+                },
+                {
+                    "name": "Designifyer.com",
+                    "date" : "Oct. 07, 2015",
+                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in dictum tortor. Mauris nisl risus, semper eget maximus in, porttitor eu libero. Curabitur urna dolor, fringilla nec gravida id, scelerisque in ex."
+                }
+            ]
+        }
+    ]
+]
